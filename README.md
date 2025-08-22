@@ -83,7 +83,7 @@ Nmap-based scanner with web technology detection:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/SecRecon.git
+   git clone https://github.com/usualdork/SecRecon.git
    cd SecRecon
    ```
 
